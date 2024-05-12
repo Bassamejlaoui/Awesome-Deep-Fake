@@ -1,5 +1,8 @@
 ### Creating a Deepfake Video 
 
+<a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
+[![Refacer Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xaviviro/refacer/blob/master/notebooks/Refacer_colab.ipynb)
+
 Dive into the world of deepfake technology fueled by AI advancements. While making unique content is more accessible, ethical use is vital. This post guides you through creating a deepfake responsibly with free AI tools.
 
 As we explore the fascinating world of deepfake technology, it's imperative that we approach this powerful tool with a sense of responsibility and ethics. Remember, with great power comes great responsibility.
