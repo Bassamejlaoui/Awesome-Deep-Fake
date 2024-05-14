@@ -30,7 +30,7 @@ This project is a profound opportunity to engage with AI in a way that can illum
 
 We trust in your judgment and creativity.
 
-Remember:
+- Remember:
 
 - **Consent is Key**
 - **Integrity Matters**
